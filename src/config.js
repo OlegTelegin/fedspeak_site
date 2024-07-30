@@ -7,20 +7,16 @@ module.exports = {
       url: 'https://github.com/OlegTelegin',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
       name: 'Twitter',
       url: 'https://twitter.com/OlegTeleginEcon',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/not_yet',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://olegteleg.in',
     },
   ],
 
