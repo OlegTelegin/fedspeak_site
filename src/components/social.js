@@ -25,6 +25,12 @@ const StyledSocialList = styled.ul`
   li {
     &:last-of-type {
       margin-bottom: 20px;
+      a {
+        svg {
+          width: 25px;
+          height: 25px;
+        }
+      }
     }
 
     a {
