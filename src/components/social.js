@@ -23,14 +23,8 @@ const StyledSocialList = styled.ul`
   }
 
   li {
-    &:last-child {
+    &:last-of-type {
       margin-bottom: 20px;
-      a {
-        svg {
-          width: 35px;
-          height: 35px;
-        }
-      }
     }
 
     a {
