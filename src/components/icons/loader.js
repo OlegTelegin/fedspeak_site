@@ -47,12 +47,12 @@ const IconLoader = () => (
         />
       </g>
       <path
-        d="M.16,24.661l83.68-7.322"
+        d="M.18,24.661l81.68-7.322"
         transform="translate(0.581 -8.872)"
         fill="none"
         stroke="#e6f1ff"
         strokeMiterlimit="10"
-        strokeWidth="17"
+        strokeWidth="19"
       />
     </g>
   </svg>
