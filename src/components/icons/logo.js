@@ -51,14 +51,14 @@ const IconLogo = () => (
             fill="#64ffda"
           />
         </g>
-        <path
+        {/* <path
           d="M.16,23.661l83.68-5.322"
           transform="translate(0.581 -8.872)"
           fill="none"
           stroke="#e6f1ff"
           strokeMiterlimit="10"
           strokeWidth="18"
-        />
+        /> */}
       </g>
     </g>
   </svg>
