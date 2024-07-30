@@ -6,18 +6,18 @@ const IconLogo = () => (
     width="85.162"
     height="24.256"
     viewBox="0 0 85.162 24.256"
-    style={{ transform: 'translateY(30px)' }}>
+    style={{ transform: 'translateY(37px)' }}>
     <title>intro-PATH</title>
     <g>
       <g>
         <path
-          d="M.16,23.661l83.68-5.322"
+          d="M.16,23.661l81.68-5.322"
           transform="translate(0.581 -8.872)"
           fill="none"
           stroke="#e6f1ff"
           strokeMiterlimit="10"
           strokeWidth="18"
-          opacity="0.5"
+          opacity="0.7"
         />
         <g>
           <path
