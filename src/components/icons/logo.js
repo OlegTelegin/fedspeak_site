@@ -5,7 +5,8 @@ const IconLogo = () => (
     xmlns="http://www.w3.org/2000/svg"
     width="85.162"
     height="24.256"
-    viewBox="0 0 85.162 24.256">
+    viewBox="0 0 85.162 24.256"
+    style={{ transform: 'translateY(30px)' }}>
     <title>intro-PATH</title>
     <g>
       <g>
@@ -16,6 +17,7 @@ const IconLogo = () => (
           stroke="#e6f1ff"
           strokeMiterlimit="10"
           strokeWidth="18"
+          opacity="0.5"
         />
         <g>
           <path
