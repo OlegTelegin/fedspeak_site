@@ -53,6 +53,7 @@ const IconLoader = () => (
         stroke="#e6f1ff"
         strokeMiterlimit="10"
         strokeWidth="18"
+        opacity="0.8"
       />
     </g>
   </svg>
