@@ -32,7 +32,7 @@ const LogoWrapper = styled.div`
     fill: none;
     user-select: none;
     isolation: isolate;
-    #underscore {
+    #Fedspeak {
       opacity: 0;
     }
     path {
@@ -49,7 +49,7 @@ const Loader = ({ finishLoading }) => {
 
     loader
       .add({
-        targets: '#logo #underscore',
+        targets: '#logo #Fedspeak',
         duration: 800,
         easing: 'easeInOutQuart',
         opacity: 1,
