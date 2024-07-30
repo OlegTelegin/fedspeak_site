@@ -27,8 +27,8 @@ const StyledSocialList = styled.ul`
       margin-bottom: 20px;
       a {
         svg {
-          width: 25px;
-          height: 25px;
+          width: 35px;
+          height: 35px;
         }
       }
     }
