@@ -61,22 +61,21 @@ const Hero = () => {
 
   const one = <h1>Hi, I'm Oleg Telegin. Welcome to my</h1>;
   const two = <h2 className="big-heading">Fedspeak paper website</h2>;
-  const three = <h3 className="big-heading">???</h3>;
+  const three = <h3 className="big-heading">Scroll down to understand the paper in 40 seconds</h3>;
   const four = (
     <>
       <p>
-        Scroll down to understand the paper in 30 seconds and explore the data and all.
-        .
+         Aside from ...
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://olegtelegin.github.io/files/olegteleginfedspeak.pdf"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out the paper!
     </a>
   );
 

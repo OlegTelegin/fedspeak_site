@@ -1,10 +1,10 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'oleginerr@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/OlegTelegin',
     },
     {
       name: 'Instagram',
@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/OlegTeleginEcon',
     },
     {
       name: 'Linkedin',
@@ -30,12 +30,8 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Data',
       url: '/#jobs',
-    },
-    {
-      name: 'Work',
-      url: '/#projects',
     },
     {
       name: 'Contact',
