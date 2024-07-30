@@ -9,6 +9,14 @@ const IconLogo = () => (
     <title>intro-PATH</title>
     <g>
       <g>
+        <path
+          d="M.16,23.661l83.68-5.322"
+          transform="translate(0.581 -8.872)"
+          fill="none"
+          stroke="#e6f1ff"
+          strokeMiterlimit="10"
+          strokeWidth="18"
+        />
         <g>
           <path
             d="M 12.9 21.952 l 0 3.995 l -2.159 0 l 0 -10.438 l 6.953 0 l 0 1.904 l -4.794 0 l 0 2.652 l 4.437 0 l 0 1.887 l -4.437 0 Z"
@@ -51,14 +59,6 @@ const IconLogo = () => (
             fill="#64ffda"
           />
         </g>
-        {/* <path
-          d="M.16,23.661l83.68-5.322"
-          transform="translate(0.581 -8.872)"
-          fill="none"
-          stroke="#e6f1ff"
-          strokeMiterlimit="10"
-          strokeWidth="18"
-        /> */}
       </g>
     </g>
   </svg>
