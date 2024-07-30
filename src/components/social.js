@@ -23,7 +23,7 @@ const StyledSocialList = styled.ul`
   }
 
   li {
-    &:last-of-type {
+    &:last-child {
       margin-bottom: 20px;
       a {
         svg {
