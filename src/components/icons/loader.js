@@ -47,7 +47,7 @@ const IconLoader = () => (
         />
       </g>
       <path
-        d="M.16,23.661l83.68-5.322"
+        d="M.16,23.661l8.68-5.322"
         transform="translate(0.581 -8.872)"
         fill="none"
         stroke="#e6f1ff"
