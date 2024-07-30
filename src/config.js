@@ -22,11 +22,11 @@ module.exports = {
 
   navLinks: [
     {
-      name: 'About',
+      name: 'About the paper',
       url: '/#jobs',
     },
     {
-      name: 'Data',
+      name: 'Data &amp; Codes',
       url: '/#projects',
     },
     {
