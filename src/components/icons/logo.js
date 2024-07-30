@@ -11,13 +11,13 @@ const IconLogo = () => (
     <g>
       <g>
         <path
-          d="M.16,23.661l81.68-5.322"
+          d="M.16,23.661l80.68-5.322"
           transform="translate(0.581 -8.872)"
           fill="none"
           stroke="#e6f1ff"
           strokeMiterlimit="10"
           strokeWidth="18"
-          opacity="0.7"
+          opacity="0.3"
         />
         <g>
           <path
