@@ -192,6 +192,9 @@ const Projects = () => {
     }
   `);
 
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [modalImage, setModalImage] = useState('');
+
   const [showMore, setShowMore] = useState(false);
   const revealTitle = useRef(null);
   const revealArchiveLink = useRef(null);
@@ -238,7 +241,7 @@ const Projects = () => {
               {github && (
                 <div onClick={e => e.stopPropagation()}>
                   <Icon name="GitHub" />
-                </a>
+                </div>
               )}
               {external && (
                 <div className="external" onClick={e => e.stopPropagation()}>
@@ -251,7 +254,7 @@ const Projects = () => {
           <h3 className="project-title">
             <div onClick={e => e.stopPropagation()}>
               {title}
-            </a>
+            </div>
           </h3>
 
           <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
