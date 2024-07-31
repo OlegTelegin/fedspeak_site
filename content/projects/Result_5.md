@@ -1,13 +1,13 @@
 ---
-date: '2024-08-01'
+date: '2024-07-30'
 title: 'Result 5'
 github: ''
-external: 'No'
+external: ''
 tech:
   - Algolia
   - WordPress
   - PHP
-company: 'No'
+company: ''
 showInProjects: true
 image: "/images/image5.jpg"
 ---
