@@ -8,6 +8,7 @@ tech:
   - Spotify Web API
 company: 'Northeastern'
 showInProjects: false
+image: "/images/image3.jpg"
 ---
 
 R Project for my Data Science class at Northeastern to analyze the top Spotify tracks of 2017 and their audio features.

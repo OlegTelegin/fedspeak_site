@@ -9,6 +9,7 @@ tech:
   - PHP
 company: 'Upstatement'
 showInProjects: true
+image: "/images/image1.jpg"
 ---
 
 Building a custom multisite compatible WordPress plugin to build global search with Algolia

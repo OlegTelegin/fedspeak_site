@@ -8,6 +8,7 @@ tech:
   - Bootstrap
 company: 'Northeastern'
 showInProjects: true
+image: "/images/image9.jpg"
 ---
 
 Complete overhaul and redesign of NU Women in Tech’s club website using Jekyll, built while serving as web chair on the e-board.

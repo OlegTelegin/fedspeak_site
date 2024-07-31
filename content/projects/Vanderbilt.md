@@ -9,4 +9,5 @@ tech:
   - JS
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image11.jpg"
 ---

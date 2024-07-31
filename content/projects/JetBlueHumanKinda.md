@@ -10,6 +10,7 @@ tech:
   - JS
 company: 'MullenLowe'
 showInProjects: false
+image: "/images/image2.jpg"
 ---
 
 Tumblr site complementing JetBlue's HumanKinda campaign and documentary. Includes an interactive quiz to determine how "HumanKinda" you are. Learn more about this project [here](https://us.mullenlowe.com/work/humankinda/).

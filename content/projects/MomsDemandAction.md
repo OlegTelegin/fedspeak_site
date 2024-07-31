@@ -11,4 +11,5 @@ tech:
   - Android
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image6.jpg"
 ---

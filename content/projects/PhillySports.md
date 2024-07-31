@@ -9,4 +9,5 @@ tech:
   - Stats Perform API
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image12.jpg"
 ---

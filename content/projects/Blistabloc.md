@@ -9,6 +9,7 @@ tech:
   - WooCommerce
 company: 'Scout'
 showInProjects: false
+image: "/images/image4.jpg"
 ---
 
 Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.

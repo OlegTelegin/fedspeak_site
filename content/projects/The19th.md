@@ -13,4 +13,5 @@ tech:
   - AMP
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image4.jpg"
 ---

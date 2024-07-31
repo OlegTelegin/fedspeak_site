@@ -9,4 +9,5 @@ tech:
   - TypeScript
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image13.jpg"
 ---

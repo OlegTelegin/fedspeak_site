@@ -9,6 +9,7 @@ tech:
   - Algolia
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image7.jpg"
 ---
 
 A site for a revolutionary healthcare company, including an Algolia instant search integration

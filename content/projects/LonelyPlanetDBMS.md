@@ -10,6 +10,7 @@ tech:
   - JS
 company: 'Northeastern'
 showInProjects: false
+image: "/images/image4.jpg"
 ---
 
 A simple web application that allows users to filter through and leave reviews in a database of Lonely Planet's Top 500 Travel Destinations.

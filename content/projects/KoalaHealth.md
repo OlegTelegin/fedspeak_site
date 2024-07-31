@@ -15,4 +15,5 @@ tech:
   - Vercel
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image3.jpg"
 ---

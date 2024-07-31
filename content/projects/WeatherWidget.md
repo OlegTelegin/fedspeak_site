@@ -8,6 +8,7 @@ tech:
   - Express
   - EJS
 showInProjects: false
+image: "/images/image12.jpg"
 ---
 
 Simple weather app made with Node.js, Express, and Heroku. Utilized the OpenWeatherMap API and Google Maps API.

@@ -9,6 +9,7 @@ tech:
   - Firebase
 company: ''
 showInProjects: true
+image: "/images/image6.jpg"
 ---
 
 A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS

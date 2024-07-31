@@ -10,4 +10,5 @@ tech:
   - Firebase
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image5.jpg"
 ---

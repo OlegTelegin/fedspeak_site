@@ -10,6 +10,7 @@ tech:
   - Vue
 company: 'Upstatement'
 showInProjects: true
+image: "/images/image14.jpg"
 ---
 
 Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement

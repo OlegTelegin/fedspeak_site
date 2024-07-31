@@ -10,4 +10,5 @@ tech:
   - Airtable API
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image8.jpg"
 ---

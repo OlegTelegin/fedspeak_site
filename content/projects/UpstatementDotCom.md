@@ -9,4 +9,5 @@ tech:
   - Prismic
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image7.jpg"
 ---

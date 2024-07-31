@@ -8,4 +8,5 @@ tech:
   - Styled Components
 company: 'Upstatement'
 showInProjects: false
+image: "/images/image5.jpg"
 ---
