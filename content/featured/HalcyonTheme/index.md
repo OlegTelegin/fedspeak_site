@@ -3,7 +3,7 @@ date: '1'
 title: 'About the paper 1'
 cover: './halcyon.png'
 github: ''
-external: 'https://halcyon-theme.netlify.com/'
+external: ''
 tech:
   - Small comments
   - Small comments

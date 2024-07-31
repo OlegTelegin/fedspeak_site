@@ -2,8 +2,8 @@
 date: '3'
 title: 'About the paper 3'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://www.x.com/OlegTeleginEcon'
+cta: 'https://www.x.com/OlegTeleginEcon'
 tech:
   - Small comments
   - Small comments
