@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'About the paper 2'
 cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Small comments
+  - Small comments
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
