@@ -12,4 +12,4 @@ showInProjects: true
 image: "/images/image4.jpg"
 ---
 
-Description 4
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
