@@ -1,11 +1,11 @@
 ---
 date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
+title: 'Data 2 Title'
+company: 'Data 2'
 location: 'Northeastern University'
 range: 'Spring 2016 & 2017'
 url: 'https://web.northeastern.edu/scout/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
