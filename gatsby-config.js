@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Fedspeak paper website by Oleg Telegin',
     siteUrl: 'https://fedspeak.olegteleg.in', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/images/image1.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@OlegTeleginEcon',
   },
   plugins: [

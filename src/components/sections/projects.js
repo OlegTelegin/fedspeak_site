@@ -6,6 +6,7 @@ import { srConfig } from '@config';
 import sr from '@utils/sr';
 import { Icon } from '@components/icons';
 import { usePrefersReducedMotion } from '@hooks';
+import Modal from '@components';
 
 const StyledProjectsSection = styled.section`
   display: flex;
@@ -182,6 +183,7 @@ const Projects = () => {
               tech
               github
               external
+              image
             }
             html
           }
@@ -211,12 +213,22 @@ const Projects = () => {
   const firstSix = projects.slice(0, GRID_LIMIT);
   const projectsToShow = showMore ? projects : firstSix;
 
+  const openModal = image => {
+    setModalImage(image);
+    setIsModalOpen(true);
+  };
+
+  const closeModal = () => {
+    setIsModalOpen(false);
+    setModalImage('');
+  };
+
   const projectInner = node => {
     const { frontmatter, html } = node;
-    const { github, external, title, tech } = frontmatter;
+    const { github, external, title, tech, image } = frontmatter;
 
     return (
-      <div className="project-inner">
+      <div className="project-inner" onClick={() => openModal(image)}>
         <header>
           <div className="project-top">
             <div className="folder">
@@ -224,25 +236,20 @@ const Projects = () => {
             </div>
             <div className="project-links">
               {github && (
-                <a href={github} aria-label="GitHub Link" target="_blank" rel="noreferrer">
+                <div onClick={e => e.stopPropagation()}>
                   <Icon name="GitHub" />
                 </a>
               )}
               {external && (
-                <a
-                  href={external}
-                  aria-label="External Link"
-                  className="external"
-                  target="_blank"
-                  rel="noreferrer">
+                <div className="external" onClick={e => e.stopPropagation()}>
                   <Icon name="External" />
-                </a>
+                </div>
               )}
             </div>
           </div>
 
           <h3 className="project-title">
-            <a href={external} target="_blank" rel="noreferrer">
+            <div onClick={e => e.stopPropagation()}>
               {title}
             </a>
           </h3>
@@ -305,6 +312,7 @@ const Projects = () => {
       <button className="more-button" onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
       </button>
+      <Modal isOpen={isModalOpen} imageSrc={modalImage} onClose={closeModal} />
     </StyledProjectsSection>
   );
 };
