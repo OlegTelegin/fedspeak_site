@@ -3,6 +3,10 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Codepen',
+      url: 'https://olegteleg.in',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/OlegTelegin',
     },
@@ -13,10 +17,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/not_yet',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://olegteleg.in',
     },
   ],
 
