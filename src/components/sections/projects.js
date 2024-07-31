@@ -228,7 +228,7 @@ const Projects = () => {
 
   const projectInner = node => {
     const { frontmatter, html } = node;
-    const { github, external, title, tech, image } = frontmatter;
+    const { title, tech, image } = frontmatter;
 
     return (
       <div className="project-inner" onClick={() => openModal(image)}>
@@ -237,18 +237,19 @@ const Projects = () => {
             <div className="folder">
               <Icon name="Folder" />
             </div>
-            <div className="project-links">
-              {github && (
-                <div onClick={e => e.stopPropagation()}>
-                  <Icon name="GitHub" />
-                </div>
-              )}
-              {external && (
-                <div className="external" onClick={e => e.stopPropagation()}>
-                  <Icon name="External" />
-                </div>
-              )}
-            </div>
+            {/* Remove or comment out the project-links div to remove GitHub and external links */}
+            {/* <div className="project-links">
+            {github && (
+              <div onClick={e => e.stopPropagation()}>
+                <Icon name="GitHub" />
+              </div>
+            )}
+            {external && (
+              <div className="external" onClick={e => e.stopPropagation()}>
+                <Icon name="External" />
+              </div>
+            )}
+          </div> */}
           </div>
 
           <h3 className="project-title">
