@@ -332,6 +332,7 @@ const Featured = () => {
   `);
 
   const featuredProjects = data.featured.edges.filter(({ node }) => node);
+  const totalProjects = featuredProjects.length;
   const revealTitle = useRef(null);
   const revealProjects = useRef([]);
   const prefersReducedMotion = usePrefersReducedMotion();
@@ -362,7 +363,7 @@ const Featured = () => {
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
                   <div>
-                    <p className="project-overline">What's it about</p>
+                    <p className="project-overline">What's it about {i + 1}/{totalProjects}</p>
 
                     <h3 className="project-title">
                       <a href={external}>{title}</a>
