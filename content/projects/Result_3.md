@@ -1,5 +1,5 @@
 ---
-date: '2024-07-30'
+date: '2024-07-28'
 title: 'Result 3'
 github: ''
 external: ''
