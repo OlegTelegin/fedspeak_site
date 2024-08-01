@@ -47,7 +47,7 @@ const StyledProjectsSection = styled.section`
 
 const StyledProject = styled.li`
   position: relative;
-  cursor: default;
+  cursor: pointer;
   transition: var(--transition);
 
   @media (prefers-reduced-motion: no-preference) {
