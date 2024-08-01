@@ -20,7 +20,7 @@ const StyledProjectsSection = styled.section`
   .archive-link {
     font-family: var(--font-mono);
     font-size: var(--fz-sm);
-    color: var(--light-navy);
+    color: var(--green);
     &:after {
       bottom: 0.1em;
     }
