@@ -254,9 +254,7 @@ const Projects = () => {
           </div>
 
           <h3 className="project-title">
-            <div onClick={e => e.stopPropagation()}>
-              {title}
-            </div>
+            {title}
           </h3>
 
           <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
