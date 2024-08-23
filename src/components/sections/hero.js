@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-         Aside from ...
+         The site is under construction
       </p>
     </>
   );
